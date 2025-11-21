@@ -1,4 +1,5 @@
- profile pics = blue
-background color = yellow
-heading color = gold 
-landimg page color = sky blue
+{profile pics} = blue
+{background color} = yellow
+{heading color} = gold 
+{landing page color} = sky blue
+{cover page color} = {navy blue}
